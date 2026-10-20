@@ -20,6 +20,18 @@ Olá! Sou Pedro Henrique Israel, apaixonado por tecnologia e pelo processo de tr
 </div>
 
 > projetos_em_destaque 🚀
+<!-- PROJETO AUTORAL EM DESTAQUE -->
+<div align="center">
+  <h3>🏁 Corrida da Fibra — Jogo autoral</h3>
+  <p>Um jogo que desenvolvi, reunindo criatividade, programação e uma experiência interativa. Um dos projetos que mais representam minha vontade de transformar ideias em algo jogável.</p>
+  <img src="https://img.shields.io/badge/PROJETO_AUTORAL-38BDF8?style=for-the-badge&labelColor=0D1117" alt="Projeto autoral" />
+  <img src="https://img.shields.io/badge/GAME_DEV-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Desenvolvimento de jogos" />
+  <p><em>Em breve: link para jogar e repositório do projeto.</em></p>
+  <!-- Quando publicar o jogo, substitua a linha acima por:
+  <p><a href="URL_DO_JOGO">🎮 Jogar agora</a> · <a href="URL_DO_REPOSITORIO">💻 Ver código-fonte</a></p>
+  -->
+</div>
+
 <table>
   <tr>
     <td width="50%" valign="top">
