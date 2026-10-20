@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**p33drinho/p33drinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...<div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090E1A,50:19376D,100:7C3AED&text=Pedro%20Henrique&fontColor=FFFFFF&fontSize=45&fontAlignY=37&desc=Desenvolvedor%20%7C%20Criando%2C%20aprendendo%20e%20evoluindo&descAlignY=57&descSize=16&animation=fadeIn" alt="Banner Pedro Henrique" />
 
@@ -68,7 +57,3 @@ Olá! Sou Pedro Henrique Israel, apaixonado por tecnologia e pelo processo de tr
   <br />
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:090E1A,50:19376D,100:7C3AED" alt="Rodapé decorativo" />
 </div>
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
