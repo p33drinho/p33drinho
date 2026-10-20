@@ -20,16 +20,20 @@ Olá! Sou Pedro Henrique Israel, apaixonado por tecnologia e pelo processo de tr
 </div>
 
 > projetos_em_destaque 🚀
-<!-- PROJETO AUTORAL EM DESTAQUE -->
+<!-- JOGO DESENVOLVIDO PARA EVENTO REAL -->
 <div align="center">
-  <h3>🏁 Corrida da Fibra — Jogo autoral</h3>
-  <p>Um jogo que desenvolvi, reunindo criatividade, programação e uma experiência interativa. Um dos projetos que mais representam minha vontade de transformar ideias em algo jogável.</p>
-  <img src="https://img.shields.io/badge/PROJETO_AUTORAL-38BDF8?style=for-the-badge&labelColor=0D1117" alt="Projeto autoral" />
-  <img src="https://img.shields.io/badge/GAME_DEV-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Desenvolvimento de jogos" />
-  <p><em>Em breve: link para jogar e repositório do projeto.</em></p>
-  <!-- Quando publicar o jogo, substitua a linha acima por:
-  <p><a href="URL_DO_JOGO">🎮 Jogar agora</a> · <a href="URL_DO_REPOSITORIO">💻 Ver código-fonte</a></p>
-  -->
+  <h3>🏁 Corrida da Fibra | Sim Fibra — Pichau Arena 2026</h3>
+  <p><strong>Jogo interativo que desenvolvi para a ativação da Sim Fibra na Pichau Arena 2026, em Joinville (SC).</strong></p>
+  <p>Uma experiência de corrida com obstáculos, power-ups, combos, conquistas e ranking, criada para envolver o público em uma ação de marca durante o evento.</p>
+  <img src="https://img.shields.io/badge/PROJETO_REAL-38BDF8?style=for-the-badge&labelColor=0D1117" alt="Projeto real" />
+  <img src="https://img.shields.io/badge/GAME_DEV-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Game development" />
+  <img src="https://img.shields.io/badge/PICHAU_ARENA_2026-334155?style=for-the-badge&labelColor=0D1117" alt="Pichau Arena 2026" />
+  <p>
+    <a href="https://corrida.simfibra.com.br/">
+      <img src="https://img.shields.io/badge/JOGAR_AGORA-38BDF8?style=for-the-badge&labelColor=0D1117" alt="Jogar Corrida da Fibra" />
+    </a>
+  </p>
+  <sub>Projeto desenvolvido para uma experiência presencial de marca. Código-fonte não divulgado neste perfil.</sub>
 </div>
 
 <table>
