@@ -1,7 +1,7 @@
 <!-- PERFIL GITHUB • PEDRO HENRIQUE • DARK TECH -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080D1C,48:163E75,100:6D28D9&text=PEDRO%20HENRIQUE&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvimento%20%7C%20Criatividade%20%7C%20Tecnologia&descAlignY=59&descSize=17&animation=fadeIn" alt="Pedro Henrique — desenvolvimento, criatividade e tecnologia" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080D1C,48:163E75,100:6D28D9&text=PEDRO%20ISRAEL&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvimento%20%7C%20Criatividade%20%7C%20Tecnologia&descAlignY=59&descSize=17&animation=fadeIn" alt="Pedro Henrique — desenvolvimento, criatividade e tecnologia" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2700&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Ol%C3%A1%2C+eu+sou+o+Pedro!+%F0%9F%91%8B;Transformo+ideias+em+experi%C3%AAncias+digitais.;C%C3%B3digo%2C+criatividade+e+aprendizado+constante." alt="Mensagem animada de apresentação" />
 
