@@ -7,38 +7,32 @@
 <a href="https://github.com/p33drinho"><img src="https://img.shields.io/badge/GitHub-p33drinho-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://corrida.simfibra.com.br/"><img src="https://img.shields.io/badge/Projeto%20em%20destaque-Corrida%20da%20Fibra-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Projeto em destaque" /></a>
 <img src="https://komarev.com/ghpvc/?username=p33drinho&color=38BDF8&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Visitas ao perfil" />
-
 </div>
 
----
-
-## `> quem_sou_eu` 👨‍💻
-
-Olá! Sou **Pedro Henrique Israel**, apaixonado por tecnologia e pelo processo de transformar ideias em projetos reais. Estou desenvolvendo minhas habilidades em programação, explorando novas soluções e aprendendo a cada desafio.
-
-- 💻 **Explorando:** desenvolvimento web e experiências interativas
-- 🛠️ **Praticando:** HTML, CSS, JavaScript e C
-- 📚 **Minha mentalidade:** aprender, criar, testar e melhorar
-- 🎯 **Objetivo:** construir projetos cada vez mais completos, funcionais e criativos
-
-## `> minha_stack` ⚡
-
+> quem_sou_eu 👨‍💻
+Olá! Sou Pedro Henrique Israel, apaixonado por tecnologia e pelo processo de transformar ideias em projetos reais. Estou desenvolvendo minhas habilidades em programação, explorando novas soluções e aprendendo a cada desafio.
+- 💻 Explorando: desenvolvimento web e experiências interativas
+- 🛠️ Praticando: HTML, CSS, JavaScript e C
+- 📚 Minha mentalidade: aprender, criar, testar e melhorar
+- 🎯 Objetivo: construir projetos cada vez mais completos, funcionais e criativos
+> minha_stack ⚡
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,vscode&theme=dark&perline=7" alt="HTML, CSS, JavaScript, C, Git, GitHub e VS Code" />
 </div>
 
----
+> habilidades_em_evolucao 🌱
+Além do desenvolvimento de software, estou ampliando meus conhecimentos em outras áreas da tecnologia:
+- 🤖 IA local: explorando a execução de modelos de inteligência artificial no próprio computador e suas possibilidades práticas.
+- 🌐 Redes: estudando conectividade, protocolos e fundamentos de infraestrutura de redes.
+- 🖥️ Hardware: aprofundando meus conhecimentos em componentes, montagem, manutenção e funcionamento de computadores.
+Em constante aprendizado: essas são áreas que estou estudando e desenvolvendo, sem deixar de lado a programação e a criação de projetos.
 
-## `> projeto_principal` 🏁
-
+> projeto_principal 🏁
 <div align="center">
 
-# 🏁 Corrida da Fibra
-### Sim Fibra • Pichau Arena 2026
-
+🏁 Corrida da Fibra
+Sim Fibra • Pichau Arena 2026
 <strong>Jogo interativo desenvolvido por mim para rodar no evento da Pichau Arena, como parte de uma ativação da Sim Fibra.</strong>
-
-<br />
 
 <img src="https://img.shields.io/badge/PROJETO_REAL-38BDF8?style=for-the-badge&labelColor=0D1117" alt="Projeto real" />
 <img src="https://img.shields.io/badge/GAME_DEV-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Game Dev" />
@@ -47,15 +41,13 @@ Olá! Sou **Pedro Henrique Israel**, apaixonado por tecnologia e pelo processo d
 
 </div>
 
-> O **Corrida da Fibra** foi criado para proporcionar uma experiência divertida e competitiva ao público durante o evento, unindo interação, velocidade e identidade de marca em um projeto aplicado ao mundo real.
+O Corrida da Fibra foi criado para proporcionar uma experiência divertida e competitiva ao público durante o evento, unindo interação, velocidade e identidade de marca em um projeto aplicado ao mundo real.
 
-### `> sobre_o_jogo`
-
-- 🎮 **Tipo de projeto:** jogo interativo para evento presencial
-- 🚀 **Contexto:** desenvolvido para a ativação da **Sim Fibra** na **Pichau Arena 2026**
-- 🕹️ **Experiência:** corrida com obstáculos, power-ups, combos, conquistas e ranking
-- 💡 **Destaque:** projeto autoral pensado para engajar o público de forma dinâmica
-
+> sobre_o_jogo
+- 🎮 Tipo de projeto: jogo interativo para evento presencial
+- 🚀 Contexto: desenvolvido para a ativação da Sim Fibra na Pichau Arena 2026
+- 🕹️ Experiência: corrida com obstáculos, power-ups, combos, conquistas e ranking
+- 💡 Destaque: projeto autoral pensado para engajar o público de forma dinâmica
 <div align="center">
   <a href="https://corrida.simfibra.com.br/">
     <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20JOGAR%20AGORA-38BDF8?style=for-the-badge&labelColor=0D1117" alt="Jogar agora" />
@@ -70,20 +62,6 @@ Olá! Sou **Pedro Henrique Israel**, apaixonado por tecnologia e pelo processo d
   <sub><strong>Observação:</strong> o código-fonte deste projeto não está público neste perfil no momento.</sub>
 </div>
 
----
-
-## `> github_status` 📊
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=p33drinho&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=A78BFA&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p33drinho&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&locale=pt-br" alt="Linguagens mais usadas" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=p33drinho&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
-</div>
-
----
 
 <div align="center">
   <p><code>while (aprendendo) { criar(); evoluir(); }</code></p>
